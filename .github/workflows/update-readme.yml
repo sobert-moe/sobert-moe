@@ -1,6 +1,7 @@
 name: Update README with Weekly Journal Entries
 
 on:
+  workflow_dispatch:
   push:
     branches: [ main ]
     paths:
