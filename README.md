@@ -14,16 +14,16 @@ I'm a passionate software engineer based in **Seabeck, Washington, United States
 - **Advanced AWS CloudFormation for Enterprise** (Certified Sep 2023)
 - AI/ML journey - following the latest repositories and best practices
 - System design patterns and architectural principles
-- AWS Lambda optimization and cost management
+- AWS optimization and cost management
 - Modern developer tools and codebase analysis
 
 ### 💼 Technical Skills
 ```javascript
 const scottObert = {
-    languages: ["JavaScript", "TypeScript", "Python", "Java"],
-    frameworks: ["React", "Node.js", "Express", "Next.js"],
+    languages: ["JavaScript", "TypeScript", "Python", "C#"],
+    frameworks: ["Angular", "React", "Node.js", "Express"],
     cloudTech: ["AWS", "CloudFormation", "Lambda", "AWS WAF", "Application Composer"],
-    tools: ["Git", "VS Code", "AWS Application Composer", "Function Maps"],
+    tools: ["Git", "VS Code", "AWS Application Composer"],
     databases: ["SQL Server", "DynamoDB", "NoSQL"],
     specialties: ["Enterprise Software", "Serverless Architecture", "System Design", "Design Patterns"],
     certifications: ["Advanced AWS CloudFormation for Enterprise (LinkedIn, Sep 2023)"],
