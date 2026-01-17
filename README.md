@@ -31,8 +31,8 @@ const scottObert = {
 };
 ```
 
-### Professional Experience
-- **Current Role**: Software Engineer at **Mutual of Enumclaw**
+### 🏢 Professional Experience
+- **Current Role**: Principal Software Engineer at **Mutual of Enumclaw**
   - Working at the #1 large company to work for in Washington State
   - Focus on enterprise-level software solutions and cloud architecture
 - **Education**: Central Washington University
