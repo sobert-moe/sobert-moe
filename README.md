@@ -2,7 +2,8 @@
 
 ## About Me
 
-I'm a passionate software engineer based in **Seabeck, Washington, United States**. I work at **Mutual of Enumclaw** and am always exploring cutting-edge technologies and best practices in software development. Welcome to my GitHub profile!
+I'm a passionate principal software engineer based in **Seabeck, Washington, United States**. 
+I work at **Mutual of Enumclaw** and am always exploring cutting-edge technologies and best practices in software development.
 
 ### What I'm Currently Working On
 - Building enterprise-level solutions at Mutual of Enumclaw (#1 large company to work for in Washington!)
@@ -43,12 +44,8 @@ const scottObert = {
 - Active engagement with software engineering communities
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=sobert-moe&show_icons=true&theme=dark&count_private=true)
-
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=sobert-moe&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sobert-moe&layout=compact&theme=dark)
-
-### Streak Stats
-![GitHub Streak](https://github-readme-streak-stats-fast.herokuapp.com/?user=sobert-moe&theme=dark)
 
 ### Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sobert-moe&theme=react-dark)
